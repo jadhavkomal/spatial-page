@@ -1,0 +1,128 @@
+.header-nav{
+    background:black;
+    border:0;
+    border-radius: 0;
+    }
+   .navbar-default .navbar-brand.brand-name {
+      color:white;
+      font-size:30px;
+     }
+    .navbar-default .navbar-brand:focus,
+    .navbar-default .navbar-brand:hover {
+      color:red;  
+      margin-bottom: 0;
+    }
+    .navbar-default .navbar-nav.brand-bar > li > a
+    {
+        color:white;
+    }
+    .banner
+    {
+      background-image:url('../images/pic02.jpg');
+      	background-size: cover;
+	padding:40px;
+	width: 100%;
+    }
+    .navbar.navbar-default.header-nav{
+        margin-bottom: 0;
+    }
+
+    .heading h1
+    {
+        text-align: center;
+        margin-bottom: 20px;
+        color:white;
+    }
+    .box{
+        width: 100%;
+        padding:30px 40px 10px 40px;
+        
+    }
+    .icon{
+        float:left;
+	width: 33.33%;
+        text-align: center;
+    }
+    
+    .box icon tv h3{
+        text-color:white;
+    }
+    
+
+    .tv
+    {
+        font-size: 30px;
+	border: 1px solid red;
+	border-radius:50%;
+	padding:20px;
+	background-color: red;
+	color:#fff;
+    }
+    .clearFix
+{
+	content:'';    
+	display: table;
+	clear: both;
+
+}
+   .icon2
+{
+       float: left;
+       width: 32%;
+       margin-left:15px;
+}
+   .conical
+{
+    	font-size: 30px;
+	border: 1px solid green;
+	border-radius:50%;
+	padding:20px;
+	background-color:green;
+	color:#fff;	
+}
+
+.icon3{
+        float:right;
+	width: 32%;
+        margin-left:15px;
+}
+.icons h3, .icons p{
+    color:white;
+}
+icons p{
+    color:red;
+}
+.pen
+{
+       	font-size: 30px;
+	border: 1px solid green;
+	border-radius:50%;
+	padding:20px;
+	background-color:green;
+	color:#fff;
+    
+}
+.footer{
+        background:rgba(221, 221, 221, 0.09);
+        background-size: cover;
+	padding:30px;
+	width: 100%;  
+}
+    .clearFix
+{
+	content:'';    
+	display: table;
+	clear: both;
+
+}
+.content1
+{
+        float:left;
+	width: 45%;
+        margin-left:50px;
+}
+.content2{
+        float:right;
+	width: 35%;
+        margin-right:50px;
+}
